@@ -1,2 +1,2 @@
 # coursera_lab
-##compilación de ejercicios de evaluación
+compilación de ejercicios de evaluación
